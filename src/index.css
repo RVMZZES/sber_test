@@ -59,10 +59,6 @@ tr {
   }
 }
 
-thead {
-  background: linear-gradient(to left, #242424, #0a3d62, #0a3d62, #242424);
-}
-
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
