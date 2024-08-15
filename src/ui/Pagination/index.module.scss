@@ -1,0 +1,13 @@
+.wrapper {
+  width: calc(100% - 4rem);
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-top: 1px solid grey;
+}
+
+.select {
+  margin-left: auto;
+}
